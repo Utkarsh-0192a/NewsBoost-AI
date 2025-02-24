@@ -1,0 +1,1106 @@
+[
+    {
+        "topic": "Top Stories",
+        "link": "http://timesofindia.indiatimes.com/rssfeedstopstories.cms"
+    },
+    {
+        "topic": "Most Recent Stories",
+        "link": "http://timesofindia.indiatimes.com/rssfeedmostrecent.cms"
+    },
+    {
+        "topic": "India",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms"
+    },
+    {
+        "topic": "World",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/296589292.cms"
+    },
+    {
+        "topic": "NRI",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/7098551.cms"
+    },
+    {
+        "topic": "Business",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/1898055.cms"
+    },
+    {
+        "topic": "US",
+        "link": "https://timesofindia.indiatimes.com/rssfeeds_us/72258322.cms"
+    },
+    {
+        "topic": "Cricket",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/54829575.cms"
+    },
+    {
+        "topic": "Sports",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/4719148.cms"
+    },
+    {
+        "topic": "Science",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms"
+    },
+    {
+        "topic": "Environment",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/2647163.cms"
+    },
+    {
+        "topic": "Tech",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/66949542.cms"
+    },
+    {
+        "topic": "Education",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/913168846.cms"
+    },
+    {
+        "topic": "Entertainment",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/1081479906.cms"
+    },
+    {
+        "topic": "Life & Style",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/2886704.cms"
+    },
+    {
+        "topic": "Most Read",
+        "link": "http://timesofindia.indiatimes.com/rssfeedmostread.cms"
+    },
+    {
+        "topic": "Most Shared",
+        "link": "http://timesofindia.indiatimes.com/rssfeedmostshared.cms"
+    },
+    {
+        "topic": "Most Commented",
+        "link": "http://timesofindia.indiatimes.com/rssfeedmostcommented.cms"
+    },
+    {
+        "topic": "Astrology",
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/65857041.cms"
+    },
+    {
+        "topic": "Auto",
+        "link": "https://timesofindia.indiatimes.com/rssfeeds/74317216.cms"
+    },
+    {
+        "topic": "Mumbai",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128838597.cms"
+    },
+    {
+        "topic": "Delhi",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128839596.cms"
+    },
+    {
+        "topic": "Bangalore",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms"
+    },
+    {
+        "topic": "Hyderabad",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128816011.cms"
+    },
+    {
+        "topic": "Chennai",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/2950623.cms"
+    },
+    {
+        "topic": "Ahemdabad",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128821153.cms"
+    },
+    {
+        "topic": "Allahabad",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3947060.cms"
+    },
+    {
+        "topic": "Bhubaneswar",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/4118235.cms"
+    },
+    {
+        "topic": "Coimbatore",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/7503091.cms"
+    },
+    {
+        "topic": "Gurgaon",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/6547154.cms"
+    },
+    {
+        "topic": "Guwahati",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/4118215.cms"
+    },
+    {
+        "topic": "Hubli",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3942695.cms"
+    },
+    {
+        "topic": "Kanpur",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3947067.cms"
+    },
+    {
+        "topic": "Kolkata",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128830821.cms"
+    },
+    {
+        "topic": "Ludhiana",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3947051.cms"
+    },
+    {
+        "topic": "Mangalore",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3942690.cms"
+    },
+    {
+        "topic": "Mysore",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3942693.cms"
+    },
+    {
+        "topic": "Noida",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/8021716.cms"
+    },
+    {
+        "topic": "Pune",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128821991.cms"
+    },
+    {
+        "topic": "Goa",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3012535.cms"
+    },
+    {
+        "topic": "Chandigarh",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128816762.cms"
+    },
+    {
+        "topic": "Lucknow",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128819658.cms"
+    },
+    {
+        "topic": "Patna",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/-2128817995.cms"
+    },
+    {
+        "topic": "Jaipur",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3012544.cms"
+    },
+    {
+        "topic": "Nagpur",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/442002.cms"
+    },
+    {
+        "topic": "Rajkot",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3942663.cms"
+    },
+    {
+        "topic": "Ranchi",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/4118245.cms"
+    },
+    {
+        "topic": "Surat",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3942660.cms"
+    },
+    {
+        "topic": "Vadodara",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3942666.cms"
+    },
+    {
+        "topic": "Varanasi",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3947071.cms"
+    },
+    {
+        "topic": "Thane",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3831863.cms"
+    },
+    {
+        "topic": "Thiruvananthapuram",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/878156304.cms"
+    },
+    {
+        "topic": "US",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/30359486.cms"
+    },
+    {
+        "topic": "NRI",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/7098551.cms"
+    },
+    {
+        "topic": "Pakistan",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/30359534.cms"
+    },
+    {
+        "topic": "South Asia",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/3907412.cms"
+    },
+    {
+        "topic": "UK",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/2177298.cms"
+    },
+    {
+        "topic": "Europe",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/1898274.cms"
+    },
+    {
+        "topic": "China",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/1898184.cms"
+    },
+    {
+        "topic": "Middle East",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/1898272.cms"
+    },
+    {
+        "topic": "Rest of World",
+        "link": "http://timesofindia.indiatimes.com/rssfeeds/671314.cms"
+    },
+    {
+        "topic": "All Blogs",
+        "link": "http://blogs.timesofindia.indiatimes.com/feed/defaultrss"
+    },
+    {
+        "topic": "News",
+        "link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3812907.cms"
+    },
+    {
+        "topic": "Entertainment",
+        "link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3812908.cms"
+    },
+    {
+        "topic": "Sports",
+        "link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3813456.cms"
+    },
+    {
+        "topic": "Lifestyle",
+        "link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3813443.cms"
+    },
+    {
+        "topic": "Business",
+        "link": "http://timesofindia.indiatimes.com/rssfeedsvideo/3813458.cms"
+    },
+    {
+        "topic": "Most Recent",
+        "link": "http://timesofindia.indiatimes.com/rssfeedsvideomostrecent.cms"
+    },
+    {
+        "topic": "Advertorial",
+        "link": "https://www.hindustantimes.com/feeds/rss/advertorial/rssfeed.xml"
+    },
+    {
+        "topic": "Analysis",
+        "link": "https://www.hindustantimes.com/feeds/rss/analysis/rssfeed.xml"
+    },
+    {
+        "topic": "Astrology",
+        "link": "https://www.hindustantimes.com/feeds/rss/astrology/rssfeed.xml"
+    },
+    {
+        "topic": "Horoscope",
+        "link": "https://www.hindustantimes.com/feeds/rss/astrology/horoscope/rssfeed.xml"
+    },
+    {
+        "topic": "Panchang Shubh muhurat",
+        "link": "https://www.hindustantimes.com/feeds/rss/astrology/panchang-shubh-muhurat/rssfeed.xml"
+    },
+    {
+        "topic": "Books",
+        "link": "https://www.hindustantimes.com/feeds/rss/books/rssfeed.xml"
+    },
+    {
+        "topic": "Impact Feature",
+        "link": "https://www.hindustantimes.com/feeds/rss/brand-post/rssfeed.xml"
+    },
+    {
+        "topic": "Brand Stories",
+        "link": "https://www.hindustantimes.com/feeds/rss/brand-stories/rssfeed.xml"
+    },
+    {
+        "topic": "International",
+        "link": "https://www.hindustantimes.com/feeds/rss/brand-stories/international/rssfeed.xml"
+    },
+    {
+        "topic": "Budget 2025",
+        "link": "https://www.hindustantimes.com/feeds/rss/budget/rssfeed.xml"
+    },
+    {
+        "topic": "Business",
+        "link": "https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml"
+    },
+    {
+        "topic": "Car and Bike",
+        "link": "https://www.hindustantimes.com/feeds/rss/car-bike/rssfeed.xml"
+    },
+    {
+        "topic": "Cities",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/rssfeed.xml"
+    },
+    {
+        "topic": "Bengaluru",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/bengaluru-news/rssfeed.xml"
+    },
+    {
+        "topic": "Bhopal",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/bhopal-news/rssfeed.xml"
+    },
+    {
+        "topic": "Chandigarh",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/chandigarh-news/rssfeed.xml"
+    },
+    {
+        "topic": "Dehradun",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/dehradun-news/rssfeed.xml"
+    },
+    {
+        "topic": "Delhi",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/delhi-news/rssfeed.xml"
+    },
+    {
+        "topic": "Gurugram",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/gurugram-news/rssfeed.xml"
+    },
+    {
+        "topic": "Indore",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/indore-news/rssfeed.xml"
+    },
+    {
+        "topic": "Jaipur",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/jaipur-news/rssfeed.xml"
+    },
+    {
+        "topic": "Kolkata",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml"
+    },
+    {
+        "topic": "Lucknow",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/lucknow-news/rssfeed.xml"
+    },
+    {
+        "topic": "Mumbai",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/mumbai-news/rssfeed.xml"
+    },
+    {
+        "topic": "Noida",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/noida-news/rssfeed.xml"
+    },
+    {
+        "topic": "Other Cities",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/others/rssfeed.xml"
+    },
+    {
+        "topic": "Patna",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/patna-news/rssfeed.xml"
+    },
+    {
+        "topic": "Pune",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/pune-news/rssfeed.xml"
+    },
+    {
+        "topic": "Ranchi",
+        "link": "https://www.hindustantimes.com/feeds/rss/cities/ranchi-news/rssfeed.xml"
+    },
+    {
+        "topic": "Cricket",
+        "link": "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml"
+    },
+    {
+        "topic": "IPL 2024",
+        "link": "https://www.hindustantimes.com/feeds/rss/cricket/ipl/rssfeed.xml"
+    },
+    {
+        "topic": "IPL 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/cricket/ipl-2023/rssfeed.xml"
+    },
+    {
+        "topic": "Editorials",
+        "link": "https://www.hindustantimes.com/feeds/rss/editorials/rssfeed.xml"
+    },
+    {
+        "topic": "Editors Pick",
+        "link": "https://www.hindustantimes.com/feeds/rss/editors-pick/rssfeed.xml"
+    },
+    {
+        "topic": "Education",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/rssfeed.xml"
+    },
+    {
+        "topic": "Admission News",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/admissions/rssfeed.xml"
+    },
+    {
+        "topic": "Board Exams",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/board-exams/rssfeed.xml"
+    },
+    {
+        "topic": "Competitive Exams",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/competitive-exams/rssfeed.xml"
+    },
+    {
+        "topic": "Employment News",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/employment-news/rssfeed.xml"
+    },
+    {
+        "topic": "Exam Results",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/exam-results/rssfeed.xml"
+    },
+    {
+        "topic": "Features",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/features/rssfeed.xml"
+    },
+    {
+        "topic": "education news",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/news/rssfeed.xml"
+    },
+    {
+        "topic": "Study Abroad",
+        "link": "https://www.hindustantimes.com/feeds/rss/education/study-abroad/rssfeed.xml"
+    },
+    {
+        "topic": "Elections 2025",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/rssfeed.xml"
+    },
+    {
+        "topic": "Assam Assembly Election 2021",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/assam-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Chhattisgarh Assembly Election 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/chhattisgarh-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Goa Election 2022",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/goa-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Gujarat Assembly Election 2022",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/gujarat-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Himachal Pradesh Assembly Election 2022",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/himachal-pradesh-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Karnataka Assembly Election 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/karnataka-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Kerala Assembly Election 2021",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/kerala-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Lok Sabha Elections 2024",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/lok-sabha/rssfeed.xml"
+    },
+    {
+        "topic": "Lok Sabha Election",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/lok-sabha-election/rssfeed.xml"
+    },
+    {
+        "topic": "Lok Sabha Elections 2024",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/lok-sabha-elections-2024/rssfeed.xml"
+    },
+    {
+        "topic": "MADHYA PRADESH ASSEMBLY ELECTION 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/madhya-pradesh-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Manipur Assembly Election 2022",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/manipur-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Meghalaya Assembly Election 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/meghalaya-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Mizoram Assembly Election 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/mizoram-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Nagaland Assembly Election 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/nagaland-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Puducherry Assembly Election 2021",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/puducherry-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Punjab Election 2022",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/punjab-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Rajasthan Assembly Election 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/rajasthan-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Tamil Nadu Assembly Election 2021",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/tamil-nadu-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Telangana Assembly Election 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/telangana-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Tripura Assembly Election 2023",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/tripura-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Uttar Pradesh Election 2022",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/uttar-pradesh-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Uttarakhand Assembly Election 2022",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/uttarakhand-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "West Bengal Assembly Election 2021",
+        "link": "https://www.hindustantimes.com/feeds/rss/elections/west-bengal-assembly-election/rssfeed.xml"
+    },
+    {
+        "topic": "Entertainment",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml"
+    },
+    {
+        "topic": "Anime",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/anime/rssfeed.xml"
+    },
+    {
+        "topic": "Bollywood",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/bollywood/rssfeed.xml"
+    },
+    {
+        "topic": "Hollywood",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/hollywood/rssfeed.xml"
+    },
+    {
+        "topic": "Music",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/music/rssfeed.xml"
+    },
+    {
+        "topic": "Entertainment Others",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/others/rssfeed.xml"
+    },
+    {
+        "topic": "Tamil Cinema",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/tamil-cinema/rssfeed.xml"
+    },
+    {
+        "topic": "Telugu Cinema",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/telugu-cinema/rssfeed.xml"
+    },
+    {
+        "topic": "TV ",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/tv/rssfeed.xml"
+    },
+    {
+        "topic": "Web Series",
+        "link": "https://www.hindustantimes.com/feeds/rss/entertainment/web-series/rssfeed.xml"
+    },
+    {
+        "topic": "Environment News",
+        "link": "https://www.hindustantimes.com/feeds/rss/environment/rssfeed.xml"
+    },
+    {
+        "topic": "Genesis",
+        "link": "https://www.hindustantimes.com/feeds/rss/genesis/rssfeed.xml"
+    },
+    {
+        "topic": "Geopolitics",
+        "link": "https://www.hindustantimes.com/feeds/rss/geopolitics/rssfeed.xml"
+    },
+    {
+        "topic": "HT Insight",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/rssfeed.xml"
+    },
+    {
+        "topic": "Climate Change",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/climate-change/rssfeed.xml"
+    },
+    {
+        "topic": "Economic Policy",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/economy/rssfeed.xml"
+    },
+    {
+        "topic": "Education System in India",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/education-in-india/rssfeed.xml"
+    },
+    {
+        "topic": "future tech",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/future-tech/rssfeed.xml"
+    },
+    {
+        "topic": "Gender Equality ",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/gender-equality/rssfeed.xml"
+    },
+    {
+        "topic": "Governance",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/governance/rssfeed.xml"
+    },
+    {
+        "topic": "International Affairs",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/international-affairs/rssfeed.xml"
+    },
+    {
+        "topic": "knowledge",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/knowledge/rssfeed.xml"
+    },
+    {
+        "topic": "Public Health",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-insight/public-health/rssfeed.xml"
+    },
+    {
+        "topic": "HT School",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-school/rssfeed.xml"
+    },
+    {
+        "topic": "HT Chronicles Quiz",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-school/chronicles/rssfeed.xml"
+    },
+    {
+        "topic": "HT Weekend ",
+        "link": "https://www.hindustantimes.com/feeds/rss/ht-weekend/rssfeed.xml"
+    },
+    {
+        "topic": "HTCity",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/rssfeed.xml"
+    },
+    {
+        "topic": "Cinema",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/cinema/rssfeed.xml"
+    },
+    {
+        "topic": "Decor",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/decor/rssfeed.xml"
+    },
+    {
+        "topic": "HTCity Delhi Junction",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/htcity-delhi-junction/rssfeed.xml"
+    },
+    {
+        "topic": "HTCity Foodies",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/htcity-foodies/rssfeed.xml"
+    },
+    {
+        "topic": "HTCity High Spirits",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/htcity-high-spirits/rssfeed.xml"
+    },
+    {
+        "topic": "HTCity Showstoppers",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/htcity-showstoppers/rssfeed.xml"
+    },
+    {
+        "topic": "Trips & Tours",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/trips-tours/rssfeed.xml"
+    },
+    {
+        "topic": "Wellness",
+        "link": "https://www.hindustantimes.com/feeds/rss/htcity/wellness/rssfeed.xml"
+    },
+    {
+        "topic": "HTLS",
+        "link": "https://www.hindustantimes.com/feeds/rss/htls/rssfeed.xml"
+    },
+    {
+        "topic": "Hindustan Times Leadership Summit 2020",
+        "link": "https://www.hindustantimes.com/feeds/rss/htls/hindustan-times-leadership-summit-2020/rssfeed.xml"
+    },
+    {
+        "topic": "HT Leadership Summit 2021",
+        "link": "https://www.hindustantimes.com/feeds/rss/htls/ht-leadership-summit-2021/rssfeed.xml"
+    },
+    {
+        "topic": "India and the Elections",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/rssfeed.xml"
+    },
+    {
+        "topic": "A saffron right rises",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/a-saffron-right-rises/rssfeed.xml"
+    },
+    {
+        "topic": "A party at its peak",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/a-torch-is-passed/rssfeed.xml"
+    },
+    {
+        "topic": "an era of stable coalitions",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/an-era-of-stable-coalitions/rssfeed.xml"
+    },
+    {
+        "topic": "archives",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/archives/rssfeed.xml"
+    },
+    {
+        "topic": "The Nehruvian era",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/the-nehruvian-era/rssfeed.xml"
+    },
+    {
+        "topic": "The Opposition rallies",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/the-opposition-rallies/rssfeed.xml"
+    },
+    {
+        "topic": "the return of one-party dominance",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-and-the-elections/the-return-of-one-party-dominance/rssfeed.xml"
+    },
+    {
+        "topic": "India News",
+        "link": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"
+    },
+    {
+        "topic": "infographic",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/rssfeed.xml"
+    },
+    {
+        "topic": "Companies",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/companies/rssfeed.xml"
+    },
+    {
+        "topic": "Economy",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/economy/rssfeed.xml"
+    },
+    {
+        "topic": "Industry",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/industry/rssfeed.xml"
+    },
+    {
+        "topic": "Markets",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/markets/rssfeed.xml"
+    },
+    {
+        "topic": "Money",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/money/rssfeed.xml"
+    },
+    {
+        "topic": "Plain Facts",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/plain-facts/rssfeed.xml"
+    },
+    {
+        "topic": "Policy",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/policy/rssfeed.xml"
+    },
+    {
+        "topic": "Startups",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/startups/rssfeed.xml"
+    },
+    {
+        "topic": "Technology",
+        "link": "https://www.hindustantimes.com/feeds/rss/infographic/technology/rssfeed.xml"
+    },
+    {
+        "topic": "Interactives",
+        "link": "https://www.hindustantimes.com/feeds/rss/interactives/rssfeed.xml"
+    },
+    {
+        "topic": "Latest News",
+        "link": "https://www.hindustantimes.com/feeds/rss/latest/rssfeed.xml"
+    },
+    {
+        "topic": "Lifestyle",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/rssfeed.xml"
+    },
+    {
+        "topic": "Art and Culture",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/art-culture/rssfeed.xml"
+    },
+    {
+        "topic": "Brunch",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/brunch/rssfeed.xml"
+    },
+    {
+        "topic": "Fashion",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/fashion/rssfeed.xml"
+    },
+    {
+        "topic": "Festivals",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/festivals/rssfeed.xml"
+    },
+    {
+        "topic": "Health",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/health/rssfeed.xml"
+    },
+    {
+        "topic": "Pet",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/pet/rssfeed.xml"
+    },
+    {
+        "topic": "Recipes",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/recipe/rssfeed.xml"
+    },
+    {
+        "topic": "Relationships",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/relationships/rssfeed.xml"
+    },
+    {
+        "topic": "Travel",
+        "link": "https://www.hindustantimes.com/feeds/rss/lifestyle/travel/rssfeed.xml"
+    },
+    {
+        "topic": "Opinion",
+        "link": "https://www.hindustantimes.com/feeds/rss/opinion/rssfeed.xml"
+    },
+    {
+        "topic": "Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/rssfeed.xml"
+    },
+    {
+        "topic": "Arts and Culture Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/art-culture/rssfeed.xml"
+    },
+    {
+        "topic": "Brand Stories Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/brand-stories/rssfeed.xml"
+    },
+    {
+        "topic": "Brunch Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/brunch/rssfeed.xml"
+    },
+    {
+        "topic": "Cricket",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/cricket/rssfeed.xml"
+    },
+    {
+        "topic": "Education Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/education/rssfeed.xml"
+    },
+    {
+        "topic": "Entertainment Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/entertainment/rssfeed.xml"
+    },
+    {
+        "topic": "HT School",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/ht-school/rssfeed.xml"
+    },
+    {
+        "topic": "HT Weekend Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/ht-weekend/rssfeed.xml"
+    },
+    {
+        "topic": "HTLS Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/htls/rssfeed.xml"
+    },
+    {
+        "topic": "Lifestyle Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/lifestyle/rssfeed.xml"
+    },
+    {
+        "topic": "News Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/news/rssfeed.xml"
+    },
+    {
+        "topic": "Opinion Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/opinion/rssfeed.xml"
+    },
+    {
+        "topic": "HT Real Estate Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/real-estate/rssfeed.xml"
+    },
+    {
+        "topic": "Singapore Summit Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/singapore-summit/rssfeed.xml"
+    },
+    {
+        "topic": "Sponsored Content Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/sponsoredcontent/rssfeed.xml"
+    },
+    {
+        "topic": "Sports Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/sports/rssfeed.xml"
+    },
+    {
+        "topic": "Tokyo Olympics Photos",
+        "link": "https://www.hindustantimes.com/feeds/rss/photos/tokyo-olympics/rssfeed.xml"
+    },
+    {
+        "topic": "Product Hub",
+        "link": "https://www.hindustantimes.com/feeds/rss/product-hub/rssfeed.xml"
+    },
+    {
+        "topic": "Real Estate",
+        "link": "https://www.hindustantimes.com/feeds/rss/real-estate/rssfeed.xml"
+    },
+    {
+        "topic": "Science",
+        "link": "https://www.hindustantimes.com/feeds/rss/science/rssfeed.xml"
+    },
+    {
+        "topic": "shop now",
+        "link": "https://www.hindustantimes.com/feeds/rss/shop-now/rssfeed.xml"
+    },
+    {
+        "topic": "Electronics",
+        "link": "https://www.hindustantimes.com/feeds/rss/shop-now/electronics/rssfeed.xml"
+    },
+    {
+        "topic": "Fashion",
+        "link": "https://www.hindustantimes.com/feeds/rss/shop-now/fashion/rssfeed.xml"
+    },
+    {
+        "topic": "Health And Beauty",
+        "link": "https://www.hindustantimes.com/feeds/rss/shop-now/health-and-beauty/rssfeed.xml"
+    },
+    {
+        "topic": "Pet care and supplies",
+        "link": "https://www.hindustantimes.com/feeds/rss/shop-now/pet-supplies/rssfeed.xml"
+    },
+    {
+        "topic": "Singapore Summit",
+        "link": "https://www.hindustantimes.com/feeds/rss/singapore-summit/rssfeed.xml"
+    },
+    {
+        "topic": "Sponsored Post",
+        "link": "https://www.hindustantimes.com/feeds/rss/sponsored-post/rssfeed.xml"
+    },
+    {
+        "topic": "Sponsored Stories",
+        "link": "https://www.hindustantimes.com/feeds/rss/sponsored-stories/rssfeed.xml"
+    },
+    {
+        "topic": "Sports",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/rssfeed.xml"
+    },
+    {
+        "topic": "Badminton News",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/badminton/rssfeed.xml"
+    },
+    {
+        "topic": "Commonwealth-Games 2022",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/commonwealth-games/rssfeed.xml"
+    },
+    {
+        "topic": "Football",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/football/rssfeed.xml"
+    },
+    {
+        "topic": "Hockey",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/hockey/rssfeed.xml"
+    },
+    {
+        "topic": "PARIS OLYMPICS 2024",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/olympics/rssfeed.xml"
+    },
+    {
+        "topic": "Other Sports",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/others/rssfeed.xml"
+    },
+    {
+        "topic": "Tennis News",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/tennis/rssfeed.xml"
+    },
+    {
+        "topic": "WWE ",
+        "link": "https://www.hindustantimes.com/feeds/rss/sports/wwe-news/rssfeed.xml"
+    },
+    {
+        "topic": "Technology",
+        "link": "https://www.hindustantimes.com/feeds/rss/technology/rssfeed.xml"
+    },
+    {
+        "topic": "top news",
+        "link": "https://www.hindustantimes.com/feeds/rss/top-news/rssfeed.xml"
+    },
+    {
+        "topic": "Trending",
+        "link": "https://www.hindustantimes.com/feeds/rss/trending/rssfeed.xml"
+    },
+    {
+        "topic": "Videos",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/rssfeed.xml"
+    },
+    {
+        "topic": "Astrology Videos",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/astrology/rssfeed.xml"
+    },
+    {
+        "topic": "Coronavirus Crisis",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/coronavirus-crisis/rssfeed.xml"
+    },
+    {
+        "topic": "Cricket Videos",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/cricket/rssfeed.xml"
+    },
+    {
+        "topic": "Education",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/education/rssfeed.xml"
+    },
+    {
+        "topic": "Election Videos",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/election/rssfeed.xml"
+    },
+    {
+        "topic": "Entertainment Videos",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/entertainment/rssfeed.xml"
+    },
+    {
+        "topic": "HTLS Videos",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/htls/rssfeed.xml"
+    },
+    {
+        "topic": "Lifestyle",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/lifestyle/rssfeed.xml"
+    },
+    {
+        "topic": "India News",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/news/rssfeed.xml"
+    },
+    {
+        "topic": "Shows",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/shows/rssfeed.xml"
+    },
+    {
+        "topic": "Sponsored Content",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/sponsoredcontent/rssfeed.xml"
+    },
+    {
+        "topic": "Sports",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/sports/rssfeed.xml"
+    },
+    {
+        "topic": "Tokyo Olympics Videos",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/tokyo-olympics/rssfeed.xml"
+    },
+    {
+        "topic": "World News",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/world-news/rssfeed.xml"
+    },
+    {
+        "topic": "Worldview Videos",
+        "link": "https://www.hindustantimes.com/feeds/rss/videos/worldview/rssfeed.xml"
+    },
+    {
+        "topic": "Web Stories",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/rssfeed.xml"
+    },
+    {
+        "topic": "brand studio stories",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/brand-studio-stories/rssfeed.xml"
+    },
+    {
+        "topic": "Branded Content Features",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/branded-content-features/rssfeed.xml"
+    },
+    {
+        "topic": "Education",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/education/rssfeed.xml"
+    },
+    {
+        "topic": "Entertainment",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/entertainment/rssfeed.xml"
+    },
+    {
+        "topic": "In Focus",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/in-focus/rssfeed.xml"
+    },
+    {
+        "topic": "Lifestyle",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/lifestyle/rssfeed.xml"
+    },
+    {
+        "topic": "Real Estate",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/real-estate/rssfeed.xml"
+    },
+    {
+        "topic": "Sports",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/sports/rssfeed.xml"
+    },
+    {
+        "topic": "Trending",
+        "link": "https://www.hindustantimes.com/feeds/rss/web-stories/trending/rssfeed.xml"
+    },
+    {
+        "topic": "Work from Home",
+        "link": "https://www.hindustantimes.com/feeds/rss/work-from-home/rssfeed.xml"
+    },
+    {
+        "topic": "World News",
+        "link": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml"
+    },
+    {
+        "topic": "US News",
+        "link": "https://www.hindustantimes.com/feeds/rss/world-news/us-news/rssfeed.xml"
+    }
+]

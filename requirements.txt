@@ -1,0 +1,12 @@
+gradio
+transformers
+torch
+ollama
+newspaper3k
+feedparser
+requests
+lxml_html_clean
+dotenv
+httplib2
+google-api-python-client
+oauth2client
